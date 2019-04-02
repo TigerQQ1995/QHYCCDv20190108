@@ -5,6 +5,9 @@ using System.Windows.Forms;
 
 namespace SdkDemo08
 {
+    /// <summary>
+    /// 
+    /// </summary>
     static class Program
     {
         /// <summary>
